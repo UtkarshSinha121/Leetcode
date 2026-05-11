@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/UtkarshSinha121/Leetcode/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/UtkarshSinha121/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -19,4 +20,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/UtkarshSinha121/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/UtkarshSinha121/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
