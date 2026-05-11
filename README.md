@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UtkarshSinha121/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/UtkarshSinha121/Leetcode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/UtkarshSinha121/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -24,4 +25,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UtkarshSinha121/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/UtkarshSinha121/Leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/UtkarshSinha121/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
